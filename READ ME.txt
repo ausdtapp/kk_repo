@@ -1,0 +1,13 @@
+KK program functionality
+
+How to use:
+    
+    1. use x = create_matches() to create a dictionary of matches.
+
+    2. use check_matches(x) to check your matches against the previous two years
+
+    3. use save_current_match() to save your current match in the current directory
+
+    4. use send_current_matches() to send the matches saved in your directory
+
+    5. after the year is finished use conclude_year() to archive your current matches into the previous_years folder
